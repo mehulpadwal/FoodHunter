@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodHunter</string>
+    <string name="google_places_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD9xCjeibznxykyK2P0pnkZWSj60qJ7Zzs</string>
+    <string name="gps_network_not_enabled">GPS not enabled. Turn On GPS?</string>
+    <string name="open_location_settings">Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="network_not_enabled">Internet not available</string>
+</resources>
